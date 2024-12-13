@@ -2,7 +2,7 @@
 ### 1. SCCU Annual Student Survey Projects
 
 #### Tools Use : 
-- Python (Panda)
+- Python (Pandas)
 - Google Sheets, Google Sheets API
 - Power BI
 
