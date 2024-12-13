@@ -12,7 +12,7 @@
 
 ### 3. Time Series Analysis on Okara Price from 2013 to 2021
 #### Tools Use :
-- R (TIdyverse, fpp3)
+- R (Tidyverse, fpp3)
 - Python (Keras, Tensorflow)
 
 ### 4. Statistical Study of Heart Failure 	
