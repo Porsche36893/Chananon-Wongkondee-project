@@ -8,7 +8,7 @@
 
 ### 2. Predicting Residential Property Values in Ames, Iowa
 #### Tools Use :
-- Python (Scikit Learn, Pandas, Matplotlib)
+- Python (Scikit Learn, Pandas, Matplotlib, Streamlit)
 
 ### 3. Time Series Analysis on Okara Price from 2013 to 2021
 #### Tools Use :
