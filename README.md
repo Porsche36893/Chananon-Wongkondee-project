@@ -1,5 +1,5 @@
 # Projects From Chananon Wongkondee
-### 1. SCCU annual Student Survey Projects
+### 1. SCCU Annual Student Survey Projects
 
 #### Tools Use : 
 - Python (Panda)
