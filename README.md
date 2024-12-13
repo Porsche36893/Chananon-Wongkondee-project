@@ -17,4 +17,4 @@
 
 ### 4. Statistical Study of Heart Failure 	
 #### Tools Use :
-- R (TIdyverse, MICE)
+- R (Tidyverse, MICE)
