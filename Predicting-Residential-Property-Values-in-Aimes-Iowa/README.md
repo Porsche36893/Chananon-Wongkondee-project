@@ -1,1 +1,0 @@
-# Predicting-Residential-Property-Values-in-Aimes-Iowa
