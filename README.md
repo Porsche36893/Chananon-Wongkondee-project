@@ -7,6 +7,7 @@
 - Power BI
 
 ### 2. Predicting Residential Property Values in Ames, Iowa
+https://aimeshomeai.streamlit.app/
 #### Tools Use :
 - Python (Scikit Learn, Pandas, Matplotlib, Streamlit)
 
